@@ -1,7 +1,7 @@
 import React from "react";
 import { HERO_CONTENT } from "../constants";
 import profile2 from "../assets/profile2.jpeg";
-import Profile from "../assets/projects/Final_profile.JPG';
+import Profile from "../assets/projects/Final_profile.JPG";
 import { motion } from "framer-motion";
 const container = (delay) => ({
   hidden: { x: -100, opacity: 0 },
